@@ -1,4 +1,4 @@
-dowload dataset -  https://example.com](https://www.kaggle.com/datasets/helloworldnamashte/brain-tumor-dataset
+dowload dataset - https://www.kaggle.com/datasets/helloworldnamashte/brain-tumor-dataset
 
 
 # Brain_tumor_Detection-PyTorch-
