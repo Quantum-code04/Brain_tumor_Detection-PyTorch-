@@ -22,7 +22,6 @@ Brain_Tumor_Classification/
 │── README.md                   # Project documentation
 
 
-
 ## 🚀 Technologies Used
 
 Python 3.9+
