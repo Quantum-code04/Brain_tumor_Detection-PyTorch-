@@ -6,7 +6,7 @@ dowload dataset - https://www.kaggle.com/datasets/helloworldnamashte/brain-tumor
 This project is a Deep Learning-based Image Classification System to detect whether a brain MRI scan shows a Brain Tumor or is Healthy.
 We use a pretrained ResNet18 model from PyTorch, fine-tuned on our custom dataset.
 
-
+```
 ## 📂 Project Structure
 
 Brain_Tumor_Classification/
@@ -20,7 +20,7 @@ Brain_Tumor_Classification/
 │── Detection_Model.ipynb       # All python code.
 │
 │── README.md                   # Project documentation
-
+```
 
 ## 🚀 Technologies Used
 
